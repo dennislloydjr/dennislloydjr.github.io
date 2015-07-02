@@ -1,5 +1,10 @@
-- menu_name: "Dankeschön"
+- menu_name: "Thanks"
 
+- name: "Theme by Moritz »mo.« Sauer"
+  url: "https://phlow.github.io/feeling-responsive/"
+  class: "sitemap-link"
+  title: "Theme by Moritz »mo.« Sauer"
+  
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"

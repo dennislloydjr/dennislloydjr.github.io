@@ -13,4 +13,4 @@
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   class: "sitemap-link"
-  title: "Sitemap for Google Webmastertools"
+  title: "Sitemap for Google Web Master Tools"
