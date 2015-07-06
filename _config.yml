@@ -26,7 +26,7 @@ baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: ""
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
@@ -129,7 +129,7 @@ defaults:
 #      / ____/___ __   __(_)________  ____  _____
 #     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
 #    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  ) 
-#   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
+#   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicons: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          "favicon-32x32.png"
@@ -152,11 +152,11 @@ msapplication_tilecolor:                "#fabb00"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<   
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
-og_locale:                          "en_EN"
-og_type:                            "website"
-og_title:                           "Curiously Correct"
-og_description:                     "Tech blog by Dennis Lloyd Jr"
+# og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
+# og_locale:                          "en_EN"
+# og_type:                            "website"
+# og_title:                           "Curiously Correct"
+# og_description:                     "Tech blog by Dennis Lloyd Jr"
 # og_url:                           ""
 # og_site_name:                     ""
 
@@ -204,7 +204,7 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-# google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-16926155-1
 
 
 
