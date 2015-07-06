@@ -21,7 +21,7 @@ description: "»Curiously Correct« Tech blog by Dennis Lloyd Jr"
 
 # This URL is the main address. Don't include a slash at the end.
 #
-url: "https://dennislloydjr.github.io"
+url: "http://www.curiouslycorrect.com"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
