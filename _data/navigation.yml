@@ -11,6 +11,12 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: Projects
+  side: left
+  dropdown:
+  - title: Genome Indexing
+    url: "/genome-indexing/"
+
 - title: "Search"
   url: "/search/"
   side: right
