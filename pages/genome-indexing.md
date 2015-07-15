@@ -21,6 +21,9 @@ My goals for this project are:
   <li>Utilize the Gradle build tool to manage dependencies and make testing and building more fluid</li>
 </ol>
 
+##Project Source##
+I am publishing the source code as I adapt it and work through the above goals. This code is available on [github](https://github.com/dennislloydjr/genome-indexing)
+
 ##About the Original Source##
 The original source code is available under MIT license [here](http://code.google.com/p/genome-indexing]). Future posts will cover each portion of the algorithm in more depth. Here I am just providing an overview of the source code in the original project. It contains the following components:
 <ul>
