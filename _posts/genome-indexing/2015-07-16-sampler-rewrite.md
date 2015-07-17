@@ -2,7 +2,6 @@
 layout: page-fullwidth
 subheadline: Test driving the rewrite of a C program into Java
 title:  Sampler Rewrite
-teaser: "The first computationally interesting piece of the Map/Reduce genome indexer is the 'sampler'. The original sampler was written in C, with typically short variable names, large methods and deeply nested loops. I wanted to rewrite to be sure I understood it well and could make any desired tweaks with confidence. I also wanted a design that improved the code clarity so that I can more easily explain it to others."
 breadcrumb: true
 header: no
 tags:
