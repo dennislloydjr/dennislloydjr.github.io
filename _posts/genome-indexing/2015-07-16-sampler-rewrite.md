@@ -61,6 +61,7 @@ Deciding on how to break things into classes while writing the Sampler was a bit
 There were sections of both the SubSequenceCollector and the PeriodicSampler that occasionally offered a challenge as well. It is my experience that these types of iterating/collecting/sampling algorithms are susceptible to off-by-one errors; where computing an index incorrectly or messing up a < vs. <= can produce results that look correct but are actually wrong. Test driving the code was particularly important here as it ensured that at any point, the scenarios I had already encoded still worked while I accounted for new scenarios. TDD also helped make sure that the code was very well covered by tests.
 
 ##Observations##
+
 ###Performance###
 The Java version executed somewhat slower than the C version. Most of the difference is actually in the start up of the JVM and was expected. The Java performance was entirely acceptable however as the Sampler is executed only once before the Map/Reduce job begins and still completed in under 1 second for the ecoli genome.
 
